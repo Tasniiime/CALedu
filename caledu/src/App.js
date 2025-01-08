@@ -1,4 +1,4 @@
-import Calendar from "./components/calender";
+import Calendar from "./components/calender"; 
 function App() {
   return (
     <div className="App">
